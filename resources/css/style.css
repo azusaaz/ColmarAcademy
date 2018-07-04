@@ -391,7 +391,7 @@ header .mobile {
 #cards {
   display: flex;
   flex-wrap: wrap;
-  margin: 0 72px;
+  margin: 0 7rem;
   padding-bottom: 2.5rem;
   justify-content: center;
 }
